@@ -3,7 +3,7 @@ date = ""
 image = ""
 showonlyimage = false
 title = ""
-weight = nil
+weight = 1
 writer = ""
 
 +++
