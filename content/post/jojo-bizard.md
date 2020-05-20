@@ -1,12 +1,9 @@
----
-title: "Jojo Bizard"
-date: 2020-05-20T09:55:44+02:00
-draft: true
-image: ""
-showonlyimage: false
-categories: ["design"]
-keywords: ["key", "words"]
-topics: ["topic 1"]
-tags: ["one", "two"]
-weight: 1
----
++++
+date = 2020-05-17T22:00:00Z
+image = "/uploads/city_hunter-_volume_1.jpg"
+showonlyimage = false
+title = "jojo bizard"
+weight = 1
+writer = ""
+
++++
