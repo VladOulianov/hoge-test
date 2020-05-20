@@ -1,0 +1,26 @@
+---
+label: zertyu
+hide_body: false
+fields:
+- type: boolean
+  name: showonlyimage
+  label: showonlyimage
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: writer
+  label: writer
+- type: number
+  name: weight
+  label: weight
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+pages:
+- content/post/gdfgdg.md
